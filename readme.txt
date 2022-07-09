@@ -1,1 +1,1 @@
-Creating a new branch is quick 分支管理.
+Creating a new branch is quick 分支管理 BUG.
